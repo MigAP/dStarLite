@@ -1,3 +1,21 @@
 #+title: C++ D*Lite implementation using boost library
 #+author: Miguel Arpa Perozo
 
+* Compilation 
+  In order to compile the project execute at the root of the project
+  in a shell :
+  #+begin_src bash 
+  make 
+  #+end_src
+
+* Getting Started 
+  To execute the program : 
+  1. Type ~50~ for rows and columns input.
+  2. Type ~1~ for obstacle number.
+  3. Now you are running a step by step scenario. The ~1~ represents
+     the obstacles, and the ~2~ the robot path. Inside this scenario
+     you can :
+     - Type ~c~ to continue.
+     - Type ~d~ to add a disturbance (try-it!)
+     - Type ~m~ to randomly modify the position of the obstacles
+       (useful when you have a large number of obstacles). 
