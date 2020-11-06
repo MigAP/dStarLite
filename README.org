@@ -19,3 +19,8 @@
      - Type ~d~ to add a disturbance (try-it!)
      - Type ~m~ to randomly modify the position of the obstacles
        (useful when you have a large number of obstacles). 
+* Tasks 
+** TODO Write documentation.   
+** TODO Clean debug comments. 
+** TODO Fix warning messages. 
+** TODO New version using objects ? 
